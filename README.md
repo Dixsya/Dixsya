@@ -1,4 +1,4 @@
-### Hello World I'm Dixsya 🦋🌼
+### Hello World I'm Dixsya ᯓ★🦋🌼
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zorrr_zxr) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@serxiozorr) 
@@ -16,7 +16,7 @@
 
 ###
 
-  <img src="https://raw.githubusercontent.com/dixsya/dixsya/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/dixsya/dixsya/output/snake.svg" alt="Snake animation" /> 
 
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
