@@ -9,6 +9,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dixzorr&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dixsya/dixsya/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dixsya/dixsya/output/pacman-contribution-graph.svg">
@@ -20,7 +21,6 @@
 <img src="https://raw.githubusercontent.com/dixsya/dixsya/output/snake.svg" alt="Snake animation" />
 
 ###
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
